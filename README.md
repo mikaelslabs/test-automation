@@ -2,7 +2,6 @@
 - Clone this repository
 - Install Node.js latest version.
 - `cd` inside the project.
-- Copy `.env` file at project root.
 - Run `npm install`.
 - Run `npm run build`.
 - Run `npm run start`.
